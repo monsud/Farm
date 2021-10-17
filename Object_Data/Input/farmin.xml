@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjFarm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ObjFarm xsi:type="Tiller" OrderID="123" Brand="reg" TotalCostRiparation="0" NumberOfWheels="5">
+    <listRep />
+  </ObjFarm>
+  <ObjFarm xsi:type="GrassTrimmer" OrderID="321" Brand="ergr" TotalCostRiparation="25">
+    <listRep>
+      <Repair Price="25" Comment="gfb" />
+    </listRep>
+  </ObjFarm>
+</ArrayOfObjFarm>

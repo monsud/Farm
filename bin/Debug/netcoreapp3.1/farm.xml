@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Farmer>
+  <Farmer>
+    <OrderID>123</OrderID>
+    <Brand>mia</Brand>
+    <TotalCostRiparation>25</TotalCostRiparation>
+    <Type>Tiller</Type>
+    <NumberOfWheels>5</NumberOfWheels>
+  </Farmer>
+  <Farmer>
+    <OrderID>852</OrderID>
+    <Brand>sua</Brand>
+    <TotalCostRiparation>0</TotalCostRiparation>
+    <Type>Tiller</Type>
+    <NumberOfWheels>8</NumberOfWheels>
+  </Farmer>
+</Farmer>
